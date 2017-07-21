@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: darkturquoise;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.toDoItem {
+  text-align: center;
+  align-content: center;
+  background-color: aliceblue;
+  height: 30px;
+  margin: auto;
+  border:1px solid #021a40;
+  width: 50%;
+}
+
+.submitFormInput{ 
+  width: 50%;
+  height: 40px;
+  margin: 20px;
+}
